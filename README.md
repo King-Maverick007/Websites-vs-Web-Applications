@@ -1,14 +1,14 @@
-# Websites vs Web Applications
+# Websites vs Web Applications.
 
-## Progressive Enhancement Layers
+## Progressive Enhancement Layers..
 
 ![image](https://rawgithub.com/webpro/Websites-vs-Web-Applications/master/progressive-enhancement-01.svg)
 
-## Website
+## Websites
 
 ![image](https://rawgithub.com/webpro/Websites-vs-Web-Applications/master/progressive-enhancement-04.svg)
 
-## Web Application
+## Web Applications
 
 ![image](https://rawgithub.com/webpro/Websites-vs-Web-Applications/master/progressive-enhancement-03.svg)
 
